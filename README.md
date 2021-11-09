@@ -1,1 +1,2 @@
 # FEWDFallGitPractice
+Lee McPeters
